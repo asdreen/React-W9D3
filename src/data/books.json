@@ -1,0 +1,730 @@
+[
+  {
+    "asin": "0316438960",
+    "title": "The Last Wish: Introducing the Witcher",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51eHtkVLL5L.jpg",
+    "price": 9.59,
+    "category": "fantasy"
+  },
+  {
+    "asin": "0316389706",
+    "title": "Sword of Destiny (The Witcher)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91uxJwnolDL.jpg",
+    "price": 10.39,
+    "category": "fantasy"
+  },
+  {
+    "asin": "0525512179",
+    "title": "21 Lessons for the 21st Century",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/811iZOA9%2B8L.jpg",
+    "price": 14.9,
+    "category": "history"
+  },
+  {
+    "asin": "019516895X",
+    "title": "Battle Cry of Freedom: The Civil War Era",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81GHAhK2ngL.jpg",
+    "price": 12.82,
+    "category": "history"
+  },
+  {
+    "asin": "0345546792",
+    "title": "The Silent Corner: A Novel of Suspense (Jane Hawk)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91dDIYze1wL.jpg",
+    "price": 7.92,
+    "category": "horror"
+  },
+  {
+    "asin": "0735218994",
+    "title": "Celtic Empire (Dirk Pitt Adventure)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91xI4GjM7jL.jpg",
+    "price": 17.32,
+    "category": "horror"
+  },
+  {
+    "asin": "0008288798",
+    "title": "A Reaper at the Gates (Ember Quartet, Book 3)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91vFU0KCm9L.jpg",
+    "price": 12.6,
+    "category": "romance"
+  },
+  {
+    "asin": "1597808709",
+    "title": "A Second Chance: The Chronicles of St. Mary's Book Three",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/714wSBJshRL.jpg",
+    "price": 9.86,
+    "category": "romance"
+  },
+  {
+    "asin": "1940026091",
+    "title": "Pandemic (The Extinction Files, Book 1)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91xrEMcvmQL.jpg",
+    "price": 7.81,
+    "category": "scifi"
+  },
+  {
+    "asin": "0425264041",
+    "title": "Shards of Hope (Psy-Changeling Novel, A)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91ku%2B0LppPL.jpg",
+    "price": 7.59,
+    "category": "scifi"
+  },
+  {
+    "asin": "0062678108",
+    "title": "The City of Brass: A Novel (The Daevabad Trilogy)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51AiOrm56BL.jpg",
+    "price": 18.37,
+    "category": "fantasy"
+  },
+  {
+    "asin": "0316434604",
+    "title": "Strange Practice (A Dr. Greta Helsing Novel)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61WMUVR7PWL.jpg",
+    "price": 12.67,
+    "category": "fantasy"
+  },
+  {
+    "asin": "0743270754",
+    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51bpOR8qigL.jpg",
+    "price": 13.14,
+    "category": "history"
+  },
+  {
+    "asin": "1455566675",
+    "title": "The Plaza: The Secret Life of America's Most Famous Hotel",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41v0b001ouL.jpg",
+    "price": 17.1,
+    "category": "history"
+  },
+  {
+    "asin": "0316405345",
+    "title": "Invisible",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61rnkCg2iYL.jpg",
+    "price": 25.48,
+    "category": "horror"
+  },
+  {
+    "asin": "0525542264",
+    "title": "The Lost Ones (A Quinn Colson Novel)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61ZJTk%2BkoGL.jpg",
+    "price": 6.79,
+    "category": "horror"
+  },
+  {
+    "asin": "0345508998",
+    "title": "No Prisoners (Star Wars: The Clone Wars)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91ycXXrwCsL.jpg",
+    "price": 12.69,
+    "category": "romance"
+  },
+  {
+    "asin": "0451414888",
+    "title": "Dragon Fate: Book Six of The Age of Fire",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81qAK72OCYL.jpg",
+    "price": 8.53,
+    "category": "romance"
+  },
+  {
+    "asin": "0008238979",
+    "title": "An Orphan's War",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/519z4%2B1KEfL.jpg",
+    "price": 11.23,
+    "category": "romance"
+  },
+  {
+    "asin": "1492667137",
+    "title": "Nightchaser",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/514%2BSppz8AL.jpg",
+    "price": 4.84,
+    "category": "scifi"
+  },
+  {
+    "asin": "1635551226",
+    "title": "Proxima Five",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61pDS5vOIdL.jpg",
+    "price": 16.34,
+    "category": "scifi"
+  },
+  {
+    "asin": "1465475850",
+    "title": "History of the World Map by Map",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/811X5Rx5atL.jpg",
+    "price": 42.28,
+    "category": "history"
+  },
+  {
+    "asin": "1455559822",
+    "title": "Memory Man (Amos Decker)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81sIePWJQwL.jpg",
+    "price": 13.99,
+    "category": "horror"
+  },
+  {
+    "asin": "1455586609",
+    "title": "End Game (Will Robie Series)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/515wWsW%2BWkL.jpg",
+    "price": 15.8,
+    "category": "horror"
+  },
+  {
+    "asin": "0140092331",
+    "title": "Sweetness and Power: The Place of Sugar in Modern History",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/918eyvG7MAL.jpg",
+    "price": 11.14,
+    "category": "history"
+  },
+  {
+    "asin": "0140437649",
+    "title": "The History of the Decline and Fall of the Roman Empire (Penguin Classics)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81-DuxI7YsL.jpg",
+    "price": 15.2,
+    "category": "history"
+  },
+  {
+    "asin": "1732987602",
+    "title": "The Truth Behind Trump Derangement Syndrome: \"There is more than meets the eye\"",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/513fCYzKnBL.jpg",
+    "price": 10.79,
+    "category": "history"
+  },
+  {
+    "asin": "0836220854",
+    "title": "The Far Side Gallery 2 (Volume 8)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91e%2BR7cHZtL.jpg",
+    "price": 9.49,
+    "category": "history"
+  },
+  {
+    "asin": "0345548728",
+    "title": "The Fleet at Flood Tide: America at Total War in the Pacific, 1944-1945",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91xf0nGAcqL.jpg",
+    "price": 15.47,
+    "category": "history"
+  },
+  {
+    "asin": "0812979796",
+    "title": "Elizabeth the Queen: The Life of a Modern Monarch",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91rKEubWHML.jpg",
+    "price": 13.44,
+    "category": "history"
+  },
+  {
+    "asin": "1583670254",
+    "title": "Discourse on Colonialism",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61msLG7tDDL.jpg",
+    "price": 12.34,
+    "category": "history"
+  },
+  {
+    "asin": "1259284751",
+    "title": "The Unfinished Nation: A Concise History of the American People Volume 2",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51XmYwIDZtL.jpg",
+    "price": 65.81,
+    "category": "history"
+  },
+  {
+    "asin": "0814742963",
+    "title": "White Cargo: The Forgotten History of Britain's White Slaves in America",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41N93AqGRsL.jpg",
+    "price": 22.55,
+    "category": "history"
+  },
+  {
+    "asin": "1586483579",
+    "title": "Auschwitz: A New History",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51FQK8SQDJL.jpg",
+    "price": 10.22,
+    "category": "history"
+  },
+  {
+    "asin": "0393059758",
+    "title": "The History of the Medieval World: From the Conversion of Constantine to the First Crusade",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71eZBpn-IBL.jpg",
+    "price": 24.14,
+    "category": "history"
+  },
+  {
+    "asin": "0758202709",
+    "title": "The Divine Nine: The History of African American Fraternities and Sororities",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91UxqaWeB0L.jpg",
+    "price": 12.97,
+    "category": "history"
+  },
+  {
+    "asin": "0385468148",
+    "title": "The Way of a Pilgrim and The Pilgrim Continues His Way",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91rUlUiMlzL.jpg",
+    "price": 14.25,
+    "category": "history"
+  },
+  {
+    "asin": "1305633946",
+    "title": "Gardner's Art through the Ages: The Western Perspective, Volume I",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51GP6fbx5nL.jpg",
+    "price": 119.1,
+    "category": "history"
+  },
+  {
+    "asin": "1635571375",
+    "title": "One Person, No Vote: How Voter Suppression Is Destroying Our Democracy",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71yBmWVXlkL.jpg",
+    "price": 14.31,
+    "category": "history"
+  },
+  {
+    "asin": "107041722X",
+    "title": "Samadhi - The Forgotten Eden: Revealing the Ancient Yogic Art of Samadhi",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41m7dk4ESYL.jpg",
+    "price": 14.44,
+    "category": "history"
+  },
+  {
+    "asin": "0525494308",
+    "title": "Quick & Dirty (A Stone Barrington Novel)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81QlXRjVg4L.jpg",
+    "price": 30.74,
+    "category": "horror"
+  },
+  {
+    "asin": "1497642418",
+    "title": "The Face in the Frost",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/516XFxgttiL.jpg",
+    "price": 10.84,
+    "category": "horror"
+  },
+  {
+    "asin": "145552249X",
+    "title": "Robert Ludlum's (TM) The Janson Option (Janson series)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81CAhm7dV5L.jpg",
+    "price": 32.86,
+    "category": "horror"
+  },
+  {
+    "asin": "0399177418",
+    "title": "The Memory of Fire (The Waking Land)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91OvCAIaVUL.jpg",
+    "price": 21.41,
+    "category": "horror"
+  },
+  {
+    "asin": "0804178429",
+    "title": "Half the World (Shattered Sea)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51%2BsRzTLvdL.jpg",
+    "price": 23.22,
+    "category": "horror"
+  },
+  {
+    "asin": "1608090663",
+    "title": "Fly by Night (A Jammer Davis Thriller)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71RiSW6zL2L.jpg",
+    "price": 12.44,
+    "category": "horror"
+  },
+  {
+    "asin": "0345806492",
+    "title": "Inferno: En espanol (Spanish Edition)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91vHqD35GOL.jpg",
+    "price": 12.53,
+    "category": "horror"
+  },
+  {
+    "asin": "1501167154",
+    "title": "The Four Legendary Kingdoms (Jack West, Jr.)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81cFEf5fcrL.jpg",
+    "price": 15.29,
+    "category": "horror"
+  },
+  {
+    "asin": "1489713921",
+    "title": "River Divided",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71nt4jhGwUL.jpg",
+    "price": 3.23,
+    "category": "horror"
+  },
+  {
+    "asin": "0692305475",
+    "title": "The Searchers",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/415WRSuf5FL.jpg",
+    "price": 4.59,
+    "category": "horror"
+  },
+  {
+    "asin": "0804127093",
+    "title": "The Quick and the Dead",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71EfTDy1sgL.jpg",
+    "price": 27.62,
+    "category": "horror"
+  },
+  {
+    "asin": "0990846105",
+    "title": "Apparition Island (4) (The Windjammer Mystery Series)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51yDJ5TgDbL.jpg",
+    "price": 12.72,
+    "category": "horror"
+  },
+  {
+    "asin": "0804121060",
+    "title": "Inferno: A Novel (Robert Langdon)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/A1p-6W6vlYL.jpg",
+    "price": 23.24,
+    "category": "horror"
+  },
+  {
+    "asin": "0525497307",
+    "title": "Typhoon Fury (The Oregon Files)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91wyICGOyHL.jpg",
+    "price": 29.74,
+    "category": "horror"
+  },
+  {
+    "asin": "1480872016",
+    "title": "The Shaft: A Supernatural Thriller",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/517qmE7PxGL.jpg",
+    "price": 18.14,
+    "category": "horror"
+  },
+  {
+    "asin": "0875654282",
+    "title": "Sins of the Younger Sons",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81sC1XaM7XL.jpg",
+    "price": 24.89,
+    "category": "horror"
+  },
+  {
+    "asin": "1416509054",
+    "title": "Ghost (Paladin of Shadows, Book 1)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51ptwTm04iL.jpg",
+    "price": 18.89,
+    "category": "horror"
+  },
+  {
+    "asin": "0345514513",
+    "title": "The Brotherhood of the Rose: A Novel (Mortalis)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81IFfeULcML.jpg",
+    "price": 12.8,
+    "category": "horror"
+  },
+  {
+    "asin": "0857387936",
+    "title": "Zambezi",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51x4kzKCW%2BL.jpg",
+    "price": 15.72,
+    "category": "horror"
+  },
+  {
+    "asin": "0307737500",
+    "title": "The Walking Drum",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81OzqN3T0FL.jpg",
+    "price": 25.86,
+    "category": "horror"
+  },
+  {
+    "asin": "125012199X",
+    "title": "Maze Master: A Thriller",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51fUTRHizFL.jpg",
+    "price": 26.59,
+    "category": "horror"
+  },
+  {
+    "asin": "1501264249",
+    "title": "Ranger, The (A Quinn Colson Novel)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71PPOsWm2LL.jpg",
+    "price": 12.58,
+    "category": "horror"
+  },
+  {
+    "asin": "0525531491",
+    "title": "The Mountain Between Us (Movie Tie-In): A Novel",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91DyWHD5eAL.jpg",
+    "price": 19.36,
+    "category": "horror"
+  },
+  {
+    "asin": "1590172728",
+    "title": "In Hazard (New York Review Books Classics)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61Bedw%2Bk8WL.jpg",
+    "price": 12.04,
+    "category": "horror"
+  },
+  {
+    "asin": "0441017851",
+    "title": "The Devil's Eye (An Alex Benedict Novel)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91-z5E-Y8QL.jpg",
+    "price": 7.99,
+    "category": "horror"
+  },
+  {
+    "asin": "1455517089",
+    "title": "The Kill Room (Lincoln Rhyme)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51yV8NXO0HL.jpg",
+    "price": 12.85,
+    "category": "horror"
+  },
+  {
+    "asin": "1644383357",
+    "title": "Helen's Crusade",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71FRJ0J56UL.jpg",
+    "price": 11.04,
+    "category": "horror"
+  },
+  {
+    "asin": "0743250265",
+    "title": "Now You See It: A Novel",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41Bv93U8qCL.jpg",
+    "price": 12.52,
+    "category": "horror"
+  },
+  {
+    "asin": "0544242157",
+    "title": "Foxfire",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51c8-cGk9-L.jpg",
+    "price": 13.97,
+    "category": "horror"
+  },
+  {
+    "asin": "1504041399",
+    "title": "War Against the Mafia (The Executioner)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51yPa%2BKfCOL.jpg",
+    "price": 11.32,
+    "category": "horror"
+  },
+  {
+    "asin": "0345483057",
+    "title": "The Fires of Spring: A Novel",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91mGElaxArL.jpg",
+    "price": 15.73,
+    "category": "horror"
+  },
+  {
+    "asin": "0425259358",
+    "title": "Tom Clancy Presents: Act of Valor",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71nOMAdm-iL.jpg",
+    "price": 9.1,
+    "category": "horror"
+  },
+  {
+    "asin": "1598531646",
+    "title": "Tarzan of the Apes: A Library of America Special Publication",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/615EQTEHR4L.jpg",
+    "price": 13.26,
+    "category": "horror"
+  },
+  {
+    "asin": "1501181858",
+    "title": "A Promise to Kill: A Clyde Barr Novel",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71W9GRf9r9L.jpg",
+    "price": 8.97,
+    "category": "horror"
+  },
+  {
+    "asin": "0553586092",
+    "title": "Babylon Rising: The Edge of Darkness",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91BPjFtGDbL.jpg",
+    "price": 8.19,
+    "category": "horror"
+  },
+  {
+    "asin": "1533233578",
+    "title": "The Book Club",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41ph9NDADGL.jpg",
+    "price": 10.99,
+    "category": "horror"
+  },
+  {
+    "asin": "0595454860",
+    "title": "Jabez Snow",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51XVHSdl7BL.jpg",
+    "price": 2.17,
+    "category": "romance"
+  },
+  {
+    "asin": "1945756020",
+    "title": "The Cure",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71WV9Pa4D5L.jpg",
+    "price": 7.16,
+    "category": "romance"
+  },
+  {
+    "asin": "1621833046",
+    "title": "Lisa Meets Her Match",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81heLvNmT6L.jpg",
+    "price": 2.84,
+    "category": "romance"
+  },
+  {
+    "asin": "0997962429",
+    "title": "Trapped",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61hUeLsCD4L.jpg",
+    "price": 8.55,
+    "category": "romance"
+  },
+  {
+    "asin": "0999631292",
+    "title": "For Love of Eden",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51ZT5baO0PL.jpg",
+    "price": 0.96,
+    "category": "romance"
+  },
+  {
+    "asin": "1640962824",
+    "title": "Eien No Ai",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/61rxoTbf7DL.jpg",
+    "price": 7.91,
+    "category": "romance"
+  },
+  {
+    "asin": "0425272435",
+    "title": "The Great West Detective Agency",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81U%2B9vvwM4L.jpg",
+    "price": 1.88,
+    "category": "romance"
+  },
+  {
+    "asin": "1536625469",
+    "title": "Atlas",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71k3fnKzHFL.jpg",
+    "price": 4.58,
+    "category": "romance"
+  },
+  {
+    "asin": "1587761572",
+    "title": "The Tuareg: Blue Man of the Sahara",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81idEVWRrCL.jpg",
+    "price": 20.2,
+    "category": "romance"
+  },
+  {
+    "asin": "0956500722",
+    "title": "The Warm Pink Jelly Express Train",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/712EoQ5D%2B8L.jpg",
+    "price": 6.71,
+    "category": "romance"
+  },
+  {
+    "asin": "0595310974",
+    "title": "The Senior Year",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51cH%2BDpcG1L.jpg",
+    "price": 9.36,
+    "category": "romance"
+  },
+  {
+    "asin": "1978650159",
+    "title": "Ask No Mercy (Max Anger)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71mURHoL7lL.jpg",
+    "price": 4.36,
+    "category": "romance"
+  },
+  {
+    "asin": "1718189540",
+    "title": "Grace (Portuguese Edition)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41BymAHaHjL.jpg",
+    "price": 2.36,
+    "category": "romance"
+  },
+  {
+    "asin": "0961451955",
+    "title": "In Rembrandt's Shadow",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71p0n4HQaDL.jpg",
+    "price": 5.45,
+    "category": "romance"
+  },
+  {
+    "asin": "099717952X",
+    "title": "Pirate's Patch",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/711fEq6vqQL.jpg",
+    "price": 5.56,
+    "category": "romance"
+  },
+  {
+    "asin": "172977220X",
+    "title": "Joseph (Clan Companions) (Volume 1)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41tnwmeU22L.jpg",
+    "price": 3.45,
+    "category": "scifi"
+  },
+  {
+    "asin": "0990655601",
+    "title": "The Man Who Sold the World",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/616BIbuuiuL.jpg",
+    "price": 5.82,
+    "category": "scifi"
+  },
+  {
+    "asin": "1980552975",
+    "title": "Alien Captive's Abduction: A Sci-Fi Alien Abduction Romance",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51JIfJicTgL.jpg",
+    "price": 6.79,
+    "category": "scifi"
+  },
+  {
+    "asin": "1634776445",
+    "title": "Bone Rider (Deutsch) (German Edition)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51oZdyzG3OL.jpg",
+    "price": 3.64,
+    "category": "scifi"
+  },
+  {
+    "asin": "0987631748",
+    "title": "When the Cars Stopped Listening",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71R-8vFGgpL.jpg",
+    "price": 15.3,
+    "category": "scifi"
+  },
+  {
+    "asin": "1911486373",
+    "title": "Pillar of Frozen Light",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71zZJWVW40L.jpg",
+    "price": 2.79,
+    "category": "scifi"
+  },
+  {
+    "asin": "099717952X",
+    "title": "Pirate's Patch",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/711fEq6vqQL.jpg",
+    "price": 5.56,
+    "category": "scifi"
+  },
+  {
+    "asin": "1504716019",
+    "title": "Gracie's Touch (Zion Warriors Series, Book 1)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71zbNC%2Bsz9L.jpg",
+    "price": 21.33,
+    "category": "scifi"
+  },
+  {
+    "asin": "1620074176",
+    "title": "The Flight to Mecha",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71JqH7Nr5jL.jpg",
+    "price": 0.53,
+    "category": "scifi"
+  },
+  {
+    "asin": "1520870019",
+    "title": "Undead Love: Long Road Home",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51lLorCNJfL.jpg",
+    "price": 2.47,
+    "category": "scifi"
+  },
+  {
+    "asin": "1504778804",
+    "title": "Star's Storm (Lords of Kassis Series, Book 2)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91dmHUr6WxL.jpg",
+    "price": 18.55,
+    "category": "scifi"
+  },
+  {
+    "asin": "0615361617",
+    "title": "Intwine",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91mi03n5BGL.jpg",
+    "price": 10.24,
+    "category": "scifi"
+  },
+  {
+    "asin": "1681603780",
+    "title": "Claimed by Nicolai (Raiden Warriors)",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/715ARTVvUvL.jpg",
+    "price": 7.65,
+    "category": "scifi"
+  }
+]
