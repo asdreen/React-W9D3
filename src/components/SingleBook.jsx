@@ -1,55 +1,35 @@
-import { Card } from "react-bootstrap";
 import { Component } from "react";
-import CommentArea from "./CommentArea";
+import { Card } from "react-bootstrap";
+// import CommentArea from './CommentArea'
 
 class SingleBook extends Component {
-  state = {
-    selected: true,
-    selectedMove: false,
-    idOfSelected: this.props.asin,
-  };
-
-  selectCard = (event) => {
-    this.setState({
-      selected: !this.state.selected,
-    });
-  };
-  handleClick = (e) => {
-    this.state.selectedMove
-      ? this.setState({ ...this.state, selectedMove: false })
-      : this.setState({ ...this.state, selectedMove: true });
-    this.props.passBookID(this.state.idOfSelected, this.props.img);
-  };
+  // state = {
+  //     selected: false
+  // }
 
   render() {
     return (
       <>
         <Card
+          // onClick={() => this.setState({ selected: !this.state.selected })}
+          onClick={() => this.props.changeSelectedBook(this.props.book.asin)}
           style={{
-            width: "15rem",
-            height: "30rem",
-            backgroundColor: "antiquewhite",
+            border:
+              this.props.selectedBook === this.props.book.asin
+                ? "3px solid red"
+                : "none",
           }}
-          onClick={(e) => {
-            this.handleClick(e);
-          }}
-          key={this.props.asin}
-          className={this.state.selectedMove ? "selected" : "cardWrapper"}
         >
-          <Card.Img
-            variant="top"
-            style={{
-              height: "20rem",
-            }}
-            src={this.props.book.img}
-          />
+          <Card.Img variant="top" src={this.props.book.img} />
           <Card.Body>
-            <Card.Title>{this.props.book.title}</Card.Title>
+            <Card.Title style={{ color: "black" }}>
+              {this.props.book.title}
+            </Card.Title>
           </Card.Body>
         </Card>
-        {this.state.selectedMove && (
-          <CommentArea id={this.state.idOfSelected} />
-        )}
+        {/* {
+          this.state.selected && <CommentArea asin={this.props.book.asin} />
+        } */}
       </>
     );
   }
